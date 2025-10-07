@@ -19,7 +19,7 @@ export const DEMO_NZL_AKL: DataSource = {
 
     defaultZoom: 12.5,
 
-    defaultRouteIds: [makeId("25B"), makeId("70")],
+    defaultRouteIds: [makeId("50A"),makeId("50B"),makeId("501"),makeId("502"),makeId("MTID"), makeId("MTIA"),makeId("KPHS"),makeId("KPHM")],
 
     checkForRealtimeUpdate: async () => false,
 
